@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba para el PrepCourse de SoyHenry
+Erik Schrettel
+Esto es una prueba para crear un repositorio en GitHub
